@@ -1,2 +1,2 @@
 # Archimedes-C.github.io
-Daniel's CSCE 190 Repository
+Daniel Ruiz's CSCE 190 Repository
